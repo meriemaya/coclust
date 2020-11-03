@@ -7,6 +7,7 @@ of a co-clustering algorithm by an information-theoretic approach.
 
 # Author: Francois Role <francois.role@gmail.com>
 #         Stanislas Morbieu <stanislas.morbieu@gmail.com>
+# Updated for the problem of missing data by : Meriem BANOUNE <banounemeriem.mb@gmail.com>
 
 # License: BSD 3 clause
 
